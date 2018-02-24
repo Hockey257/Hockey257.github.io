@@ -39,11 +39,11 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I persevered that lesson because at first my laps wouldn't work but after a good bit of concentration and effort I tried to make the laps change when it crosses the finish line.</td>
+    <td>I persevered that lesson because at first my laps wouldn't work but after a good bit of concentration and effort I tried to make the laps change when the race car crosses the finish line.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I asked Felix who was sitting near to me how the car would now when it crossed the finish line and then I worked out that the finish line could be a different colour to white so I could say when touching colour… change laps by 1.</td>
+    <td>I asked Felix who was sitting near to me how the car laps would change when it crossed the finish line and then I worked out that the finish line could be a different colour to white so I could say when touching colour… change laps by 1.</td>
   </tr>
   <tr>
     <td>Independence</td>
