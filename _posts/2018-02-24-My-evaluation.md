@@ -55,7 +55,7 @@ published: true
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>Throughout the whole six weeks of producing our games every lesson I think ‘what can I do next week to make my game better and how I can achieve that’ which helps me to think positively in the next lesson and get going on what I want to change or add to my game to improve it. After this intense time of making my game finally when I finished I had to gather information from other people in my class about my game. Some of the improvements they suggested is that I could have made Turbo Boost a two player game which would have made it more competitive and addictive to play with your friends.</td>
+    <td>Throughout the whole six weeks of producing our games every lesson I think ‘what can I do next week to make my game better and how I can achieve that’ which helps me to think positively in the next lesson and get going on what I want to change or add to my game to improve it. After this intense time of making my game finally when I finished I had to gather information from other people in my class about my game. Some of the improvements they suggested is that I could have made Turbo Boost a two player game which would have made it more competitive and addictive to play with your friends. Also I have reflected over every blog that I have done to describe my thoughts in more detail and write more about my day I had in IT.</td>
   </tr>
   <tr>
     <td>Engagement</td>
