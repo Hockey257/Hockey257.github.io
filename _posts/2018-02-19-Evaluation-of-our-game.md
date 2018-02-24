@@ -39,30 +39,30 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I persevered by asking people what the homework was and what they did in class so I can catch up and not be behind.</td>
+    <td>I persevered by asking people what the homework was and what they did in class so I can catch up and not be behind. I also was looking for Mr Keen so I could tell him what was the homework, but I couldn't find him on Thursday so I had to persevere and look for him on Friday.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I questioned people to see what they thought about my game and the changes I could make to make it better.</td>
+    <td>I questioned people to see what they thought about my game and the changes I could make to make it better. I also questioned people about the homework.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I thought carefully about what I was going to write about my game and the pros and cons and the things I could improve on.</td>
+    <td>I thought carefully about what I was going to write about my game. The things I had to write about were the pros and cons and what could I improve on.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td></td>
+    <td>When people told me their thoughts about my game I took everyone’s opinion into account and now I feel like I could have made some changes to my game for instance people said that I could have made it a two player game which I hadn’t thought of.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I talked to people and took in their views about my game and saw how I could use their views to help my game be more successful. </td>
+    <td>I talked to people and took in their views about my game and saw how I could use their views to help my game be more successful. I also played their games which was fun and all of them were really good because they had lots of good and fun elements to their game which were unique.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>I could have been in the lesson. This would have helped my learning more because Mr Keen would have been instructing the class therefore I wouldn't have to rely on my class to help me and tell me what to do for homework.</td>
+    <td>Even though I couldn’t do much about it I could have been in the lesson. This would have helped my learning more because Mr Keen would have been instructing the class therefore I wouldn’t have to rely on my class to help me and tell me what to do for homework. </td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I need to try and be at the lesson and I could have put more bullet points on my evaluation sheet to make lots of options to make my game better.</td>
+    <td>I need to try and be at the lesson next time.On my evaluation sheet for my game I could have put more bullet points to make lots of options to improve my game. If I couldn’t find time to catch up at home then I could have stayed in at lunchtimes to finish off what my class did on Wednesday to make sure I wasn’t falling behind, but thankfully I did have time at home.</td>
     <td></td>
   </tr>
 </table>
