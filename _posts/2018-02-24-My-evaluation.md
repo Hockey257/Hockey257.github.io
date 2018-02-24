@@ -1,5 +1,5 @@
 ---
-title: My evaluation
+title: My Evaluation
 layout: post
 author: giacomo.mailey
 permalink: /my-evaluation/
