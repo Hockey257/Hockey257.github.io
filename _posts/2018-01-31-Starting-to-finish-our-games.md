@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To start to finish our games that we have made.</td>
+    <td>Our class's target was to start to finish our games that we have made over the last six weeks.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -43,7 +43,7 @@ published: true
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I asked Mr Keen how to have a choice of cars.</td>
+    <td>I asked Mr Keen how to have a choice of cars because that would make my game more interesting and enticing to play. However, even though I asked Mr Keen for help I knew he wasn’t going to do it for me but just point me in the right direction.</td>
   </tr>
   <tr>
     <td>Independence</td>
