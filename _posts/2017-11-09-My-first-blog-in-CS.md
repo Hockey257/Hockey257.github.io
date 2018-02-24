@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes, but I just need to go into JS bin</td>
+    <td>Yes, but I just need to go into JS bin.</td>
   </tr>
 </table>
 
