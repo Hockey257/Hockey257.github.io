@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Sign in to Scratch.</td>
+    <td>Our starting point today was to sign into Scratch and start working on our Space Invader games that we are making.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Get a step closer to finishing my game.</td>
+    <td>My target this lesson was to get a step closer to finishing my game which would be a challenge so I had to work fast.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Kind of because I still need to make the laser disappear.</td>
+    <td>Yes because I made the laser disappear and shoot out of the player you were controlling which was a struggle but I did it in the end.</td>
   </tr>
 </table>
 
@@ -39,23 +39,23 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I persevered to complete a bit more of my game.</td>
+    <td>In class I try to persevere as much as I can. When didn't know how to make the laser disappear I didn’t give up trying and then after lots of attempts to solve the mystery of the why the laser wouldn’t disappear is when I finally found out how to do it </td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>When the laser wouldn’t disappear I questioned myself can I change my script and find another way to make the laser disappear.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I tried to do it all by myself.</td>
+    <td>While making my game I tried to make the laser disappear myself without calling for Mr Keen or a friend of mine’s help.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I have reflected to see what I could have done better.</td>
+    <td>I have reflected to see what I could have done in my remix of Space Invaders so that next week I can make a solution to what I can do about the problem.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I saw how Mr Keen started so I could get a feel of what we are going to do next.</td>
+    <td>When Mr Keen was showing the form stuff on the board I was focused on just him and what he was saying so I could understand the coding that he has just showed us.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Be more creative and think of ideas in class.</td>
+    <td>In class I could be more creative and think of more ideas. I need to improve on the quickness of my typing.</td>
     <td></td>
   </tr>
 </table>
