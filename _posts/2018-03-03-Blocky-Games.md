@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Blocky Games</td>
+    <td>Blockly Games</td>
     <td>Date</td>
     <td>03/03/18</td>
   </tr>
