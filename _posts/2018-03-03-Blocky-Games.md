@@ -51,7 +51,7 @@ published: true
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I thought I had a really good go in this lesson programing in blocky games and had tried my best to figure out which codes would make certain things either change colour or move into a different direction. </td>
+    <td>I thought I had a really good go in this lesson programing in Blockly Games and had tried my best to figure out which codes would make certain things either change colour or move into a different direction. </td>
   </tr>
   <tr>
     <td>Engagement</td>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Next time the class  work on Blocky games I am going to be more positive about doing them and feel more relaxed in where I am compared to the class because lots of people in my class have worked on websites such as this and have more experience. But I will always try my best.</td>
+    <td>Next time the class  work on Blockly Games I am going to be more positive about doing them and feel more relaxed in where I am compared to the class because lots of people in my class have worked on websites such as this and have more experience. But I will always try my best.</td>
     <td></td>
   </tr>
 </table>
