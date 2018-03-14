@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My class is 7T and it is the most savage class in the school.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi my name is Jack and I love hockey as well as other sports.
 
 ### Contact me
 
