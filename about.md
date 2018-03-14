@@ -12,4 +12,4 @@ Hi my name is Jack and I love hockey as well as other sports.
 
 ### Contact me
 
-[email@domain.com](giacomo.mailey@challoners.org.)
+[Click to Email me](giacomo.mailey@challoners.org.)
