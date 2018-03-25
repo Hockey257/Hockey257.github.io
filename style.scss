@@ -24,7 +24,10 @@ body {
   font: $helvetica;
   color:#008000;
 }
-
+th, td {
+    padding: 15px;
+    text-align: left;
+}
 table {
     width: 100%;
 }
