@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>In my learning I could have made more options.</td>
+    <td>In my learning the things that could have gone better are that I could have asked more questions to show that I was fully tuning into the discussion and I could have thought of more choices of questions to share with the class..</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>To make more options I could think of more ideas to ask next time in class.</td>
+    <td>The changes that I need to make to improve my learning next time are that I need to think of a wider range of ideas to share with the class and ask more questions to show that I am engaging with the conversation. </td>
     <td></td>
   </tr>
 </table>
