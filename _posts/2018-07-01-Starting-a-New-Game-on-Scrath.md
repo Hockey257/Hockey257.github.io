@@ -1,5 +1,5 @@
 ---
-title: Starting a New Game on Scrath
+title: Starting a New Game on Scratch
 layout: post
 author: giacomo.mailey
 permalink: /starting-a-new-game-on-scrath/
